@@ -1,0 +1,5 @@
+# Godot cache folder
+.godot/
+
+# Mono (如果以后用C#)
+.mono/
